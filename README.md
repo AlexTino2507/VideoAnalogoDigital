@@ -1,2 +1,2 @@
 # VideoAnalogoDigital
-Paguina Estatica de trabajo Final
+Pagina Estatica de trabajo Final
